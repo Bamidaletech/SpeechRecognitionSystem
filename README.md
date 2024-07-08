@@ -12,7 +12,7 @@ Python 3.x
 speech_recognition
 pyttsx3
 # Installation
-Clone the repository: git clone https://github.com/bamidaletech/speech-recognition-system.git
+Clone the repository: git clone [https://github.com/bamidaletech/speech-recognition-system](https://github.com/Bamidaletech/SpeechRecognitionSystem).git
 cd speech-recognition-system
 Install the required packages: pip install -r requirements.txt
 # Usage
